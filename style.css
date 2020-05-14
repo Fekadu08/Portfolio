@@ -1,7 +1,14 @@
 body{
-    background: #cccccc;
+    background: lightblue;
 }
 #Header .a:hover
 {
 color: #fff;
+}
+.bg-color{
+    background-color:burlywood;
+}
+h1,h4{
+font-weight: bold;
+color: chocolate;
 }
